@@ -111,3 +111,9 @@ Wvenv.bak/
 
 # macOS
 .DS_Store
+
+#pytest Cache
+.pytest_cache
+
+#VSCODE
+.vscode/*
